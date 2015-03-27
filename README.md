@@ -1,16 +1,25 @@
 # MLibraries
 まいちオリジナルiOSライブラリ
-##MActionsheet
-*MActionsheetButtonView
-*MActionsheetDatePickerView
-*MActionsheetSelectPickerView
+####MActionsheet
+ブロックアクションシート
+* MActionsheetButtonView
+* MActionsheetDatePickerView
+* MActionsheetSelectPickerView
 
-##MAlertModalView
+####MAlertView
+ブロックアラートビュー
 
-##MModalView
+####MAlertModalView
+ブロックアラートビューに任意のビューをのせる
 
-##MProgress
+####MModalView
+任意のビューをモーダルで表示する
 
-##MRequest
+####MProgress
+任意の画像を回転、または切り替えでアニメーションするプログレスを表示する
 
-##MSpringboard
+####MRequest
+iOS7~のPOST,get関数
+
+####MSpringboard
+iPhoneホーム画面のような画像をドラッグ＆ドロップで並び替えられるビュー
